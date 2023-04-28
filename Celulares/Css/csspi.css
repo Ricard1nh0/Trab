@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+body{
+	background-image: url(https://img.freepik.com/vetores-gratis/fundo-de-tecnologia-gradiente-geometrico-azul_52683-78527.jpg);
+ 	background-size: cover;
+ 	filter: saturate(0.5);
+ 
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 76px;
+	text-shadow: -7px 7px 4px purple;
+
+}
+
+h2{
+	text-align: left;
+	color: white;
+	font-size: 55px;
+	text-indent: 70px;
+	font-family: cursive;
+}
+
+h3{
+	text-align: left;
+	color: white;
+	font-size: 55px;
+	text-indent: 70px;
+	font-family: cursive;
+}
+
+h4{
+	text-align: left;
+	color: floralwhite;
+	font-size: 55px;
+	text-indent: 70px;
+	font-family: cursive;
+}
+
+p{
+	color: white;
+	font-size: 40px;
+}
+a{
+	color: yellow;
+}
+
+a:visited{
+	color: green;
+}
+
+img {
+  float: left;
+  margin-right: 10px; 
+}
