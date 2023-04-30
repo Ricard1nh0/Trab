@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+body{
+  background-image: url("img/flag.jpg");
+  background-color: rgba(255, 255, 255, 0.5);
+ 
+}
+
+h1{
+  text-align: center;
+  font-size: 70px;
+  text-shadow: -7px 7px 10px gold;
+}
+
+h2{
+  text-align: center;
+  font-size: 70px;
+  text-shadow: -7px 7px 10px red;
+}
+
+h3{
+  font-size: 50px;
+  text-shadow: -7px 7px 10px blue;
+
+}
+
+.h32{
+  text-align: center;
+  font-size: 50px;
+  text-shadow: -7px 7px 10px blue;
+}
+h4{
+  text-align: center;
+  font-size: 70px;
+  text-shadow: -7px 7px 10px gold;
+}
+
+.Champions{
+  text-align: center;
+  font-size: 70px;
+  text-shadow: -7px 7px 10px darkblue;
+}
+
+p{
+  font-size: 40px;
+  text-shadow: 2px 2px 4px black;
+
+}
+
+.p2{
+  font-size: 35px;
+  text-shadow: 2px 2px 4px black;
+  text-align: left;
+  text-indent: 10px;
+}
+
+.ph{
+  font-size: 35px;
+  text-shadow: 2px 2px 4px black;
+  text-align: justify;
+  text-indent: 10px;
+}
+
+li{
+  font-size: 25px;
+  text-shadow: 2px 2px 4px black;
+}
+
+.fig1{
+  border: 8px solid gold;
+  width: 40%; height: 30%;
+  float: left;
+  margin-right: 10px; 
+}
+
+.fig2{
+  border: 8px solid red;
+  width: 35%; height: 25%;
+  float: left;
+  margin-right: 10px; 
+}
+
+.fig3{
+  border: 8px solid darkblue;
+  width: 33%; height: 25%;
+  float: left;
+  margin-right: 10px; 
+}
+
+.fig4{
+  border: 8px solid darkblue;
+  width: 60%; height: 25%;
+  float: left;
+  margin-right: 10px; 
+}
+
+.figh{
+   width: 40%; height: 30%;
+   display: block;
+   margin: 0 auto;
+   border: 4px solid darkblue;
+}
