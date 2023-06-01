@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url("../img/bar.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+header img{
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+h1{
+  margin-right: 140px;
+}
+
+img{
+  width: 300px;
+  height: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+nav {
+  width: 40%;
+  background-color: rgba(139, 0, 0, 0.9);
+  padding: 20px;
+}
+
+nav ul{
+  list-style: none;
+  margin-left: 38px;
+  margin-top: 30px;
+}
+
+nav ul li{
+  margin: 30px 0;
+  font-size: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+li:hover a{
+  color: black;
+}
+
+section {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 12%;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.7);
+  opacity: ;
+  max-width: 960px
+}
+
+aside {
+  width: 40%;
+  background-color: rgba(139, 0, 0, 0.9);
+  padding: 20px;
+}
+
+aside h2{
+  color: white;
+}
+
+nav {
+  width: 40%;
+  background-color: rgba(139, 0, 0, 0.9);
+  padding: 20px;
+}
+
+article {
+  width: 80%;
+}
+
+h2 {
+  color: #c00;
+  text-align: center;
+}
+
+.h2menu{
+  color: white;
+}
+
+
+h3{
+  text-align: center;
+}
+
+article p{
+  text-align: center;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 3px solid #ccc;
+}
+
+footer {
+  background-color: darkred;
+  padding: 10px;
+  text-align: center;
+  color: whitesmoke;
+}
